@@ -5,7 +5,7 @@
         Eduflow Platform
       </h1>
       <p class="text-xl text-gray-300 mb-8">
-        TailwindCSS está funcionando correctamente ✅
+        Entorno configurado correctamente ✅
       </p>
       <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors">
         Comenzar
